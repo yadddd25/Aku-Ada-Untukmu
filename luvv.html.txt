@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Aku Masih Di Sini, Di Antara Jarak dan Janji</title>
+<style>
+  body {
+    background: #fff8f0;
+    font-family: 'Georgia', serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    color: #4a2c2a;
+    line-height: 1.6;
+  }
+  h1 {
+    text-align: center;
+    color: #b34747;
+    margin-bottom: 1em;
+  }
+  p {
+    margin-bottom: 1.2em;
+    font-size: 1.1em;
+  }
+  .penutup {
+    margin-top: 2em;
+    font-style: italic;
+    text-align: right;
+    font-weight: bold;
+  }
+  audio {
+    display: block;
+    margin: 30px auto;
+    width: 100%;
+  }
+</style>
+</head>
+<body>
+
+<h1>Aku Masih Di Sini, Di Antara Jarak dan Janji</h1>
+
+<p>Aku nggak tahu kamu bisa merasakan ini atau tidak, tapi akhir-akhir ini… aku sering kali diam. Bukan karena tidak peduli, tapi karena terlalu banyak hal di kepala dan hati, semuanya tentang kita.</p>
+
+<p>Hubungan kita sedang jauh — bukan cuma karena jarak, tapi karena rasa yang belakangan ini kadang terasa hambar. Mungkin karena kita sama-sama punya ego, sama-sama menyimpan lelah, dan sama-sama menahan hal-hal yang sebenarnya ingin kita sampaikan. Tapi satu hal yang tidak berubah: aku masih di sini. Aku masih bertahan, meskipun kadang aku merasa seperti satu-satunya yang terus menggenggam ini erat-erat.</p>
+
+<p>Aku tahu aku bukan pasangan yang selalu sempurna. Kadang aku menyebalkan, kadang sulit dimengerti. Tapi aku mencintaimu dengan cara yang tenang dan tulus, bukan karena semua ini mudah, tapi karena aku tahu kamu adalah rumah yang layak aku perjuangkan.</p>
+
+<p>Aku masih percaya pada hari itu — hari pertemuan yang pernah kita impikan. Hari di mana kita tidak lagi harus mencintai lewat layar, lewat pesan singkat, atau lewat doa yang kita bisikkan dari jauh. Hari itu mungkin masih tertunda, tapi aku tidak pernah berhenti menunggu. Karena kamu bukan hanya harapan, kamu adalah bagian dari hidup yang sedang aku siapkan.</p>
+
+<p>Tapi aku juga manusia. Aku juga punya takut yang tidak bisa aku jelaskan dengan logika. Aku takut kamu lelah, lalu merasa sendirian terlalu lama. Aku takut kamu akhirnya mencari pelukan lain, bukan karena kamu tidak setia, tapi karena kamu butuh ditemani — dan aku tak selalu bisa hadir secara nyata. Aku takut kamu bertemu seseorang yang terlihat lebih sederhana untuk dijangkau, dan kamu memilih dia hanya karena aku terlalu jauh untuk digapai.</p>
+
+<p>Tapi di balik semua ketakutan itu, ada satu hal yang selalu aku jaga: keyakinanku padamu.</p>
+
+<p>Kita sama-sama punya dunia yang ramai. Kita dikelilingi banyak orang. Dan sejujurnya, sangat mudah bagiku untuk berpaling, untuk memilih wanita lain, untuk sekadar merasa ditemani. Tapi aku tidak memilih itu. Aku memilih kamu. Karena sejak awal aku sudah berkomitmen: ketika aku serius, maka tidak akan ada orang lain. Selama kamu masih di sini, selama kamu masih ingin aku jadi rumahmu, aku bisa janjikan satu hal… tidak akan ada wanita lain yang bisa menggantikan tempatmu.</p>
+
+<p>Bagiku, siapapun kamu hari ini — dengan kisah lalu yang mungkin tidak selalu indah — kamu tetap perempuan yang aku hormati. Kamu tetap perempuan bermahkota. Meski mahkota itu mungkin sempat ternoda oleh luka-luka masa lalu, kamu tetap cantik. Kamu tetap layak dicintai dengan rasa aman, bukan rasa curiga.</p>
+
+<p>Aku ingin kamu tahu, aku tidak di sini untuk menyelamatkanmu. Aku di sini untuk berjalan bersamamu. Untuk jadi seseorang yang kamu percaya, yang bisa kamu andalkan meski tidak selalu terlihat. Aku ingin jadi rumah yang tidak menuntut kamu jadi sempurna, tapi cukup menjadi dirimu yang sebenarnya.</p>
+
+<p>Dan jujur saja, aku ingin diperlakukan dengan cara yang sama. Aku ingin kamu bangga padaku, sebagaimana aku membanggakanmu. Aku ingin kamu tahu… kalau kamu menganggapku pasanganmu, apakah dunia tidak boleh tahu itu? Apakah aku harus terus disembunyikan, seolah aku tidak cukup pantas untuk dikenalkan? Aku juga ingin dibanggakan, sebagaimana aku memamerkanmu ke duniaku — dengan penuh rasa sayang, dengan rasa bangga, tanpa takut dinilai apa pun.</p>
+
+<p>Hubungan ini mungkin sedang tidak dalam masa paling hangat. Tapi selama kamu masih memilih untuk bertahan, aku akan tetap di sini. Aku tidak butuh semuanya sempurna. Aku hanya butuh kamu tetap jujur dan tetap ada. Aku hanya ingin kita terus berjalan — meskipun lambat, asal tetap bersama.</p>
+
+<p>Karena aku mencintaimu. Bukan karena keadaan memaksa, tapi karena hatiku memang memilih kamu. Aku mencintaimu bukan karena tidak punya pilihan lain, tapi karena kamu satu-satunya yang aku pilih ketika aku tahu apa itu cinta yang dewasa. Dan kalau suatu saat nanti kita sampai di hari itu — hari yang pernah kita bicarakan — aku akan berdiri di hadapanmu dengan hati yang penuh… dan aku ingin kamu tahu, bahwa sejak awal, tempatmu tidak pernah tergantikan.</p>
+
+<p class="penutup">Terima kasih sudah jadi alasanku bertahan sejauh ini.<br> Dari aku, yang belum ingin menyerah, Iyyad.</p>
+
+<audio controls autoplay loop>
+  <source src="https://cdn.pixabay.com/download/audio/2021/10/08/audio_1a9f7016d3.mp3?filename=calm-and-relaxing-background-ambient-music-13421.mp3" type="audio/mpeg" />
+  Browser kamu tidak mendukung audio.
+</audio>
+
+</body>
+</html>
